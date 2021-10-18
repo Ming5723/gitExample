@@ -1,2 +1,3 @@
 boss,mpei3,Pei,Ming
 employee,hshi87,Shi,Haoyue
+role,NetID,LastName,FirstName
